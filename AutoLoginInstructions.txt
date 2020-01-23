@@ -1,0 +1,4 @@
+AutoLogin instructions:
+Run using 'python3 autoLogin2.py *name of website(ex. facebook)*'
+
+include 'update' and 'username' or 'password' to update the information in the 'loginpage.txt' file.
